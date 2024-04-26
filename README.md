@@ -1,17 +1,21 @@
 # PA-A23-KELOMPOK-6
 
+# Sistem Manajemen Proyek Perusahaan 
 
-# Manajemen Proyek Perusahaan 
+## Deskripsi Program
 
-Struktur Program
+Program Manajemen Proyek Perusahaan adalah sistem yang dirancang untuk membantu manajer dalam perusahaan mengelola proyek. dengan program ini diharapkan dapat mendukung praktik industri yang terstruktur dan berkelanjutan. ini memungkinkan perusahaan untuk melakukan perencanaan, penjadwalan, alokasi sumber daya, monitoring, dan pelaporan progres proyek secara efisien dan efektif.
+
+## Struktur Program
 
 - Login 
-    - Manajer
+    - Manajer 
         - Menampilkan Proyek
         - Buat Proyek
         - Hapus Proyek
         - Pilih Proyek
             - Detail Proyek
+                - Edit Proyek
             - Proyek Update
                 - Menampilkan Proyek Update
                 - Buat Proyek Update
@@ -40,3 +44,15 @@ Struktur Program
         - Proyek Update
         - Tugas
             - Edit Status Tugas
+
+## Fitur
+
+###### Library
+
+###### Manajer
+
+###### Karyawan
+
+## Fungsionalitas
+
+## Cara Penggunaan
