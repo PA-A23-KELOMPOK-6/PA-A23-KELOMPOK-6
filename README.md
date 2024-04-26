@@ -6,7 +6,7 @@
 
 Program Manajemen Proyek Perusahaan adalah sistem yang dirancang untuk membantu manajer dalam perusahaan mengelola proyek. dengan program ini diharapkan dapat mendukung praktik industri yang terstruktur dan berkelanjutan. ini memungkinkan perusahaan untuk melakukan perencanaan, penjadwalan, alokasi sumber daya, monitoring, dan pelaporan progres proyek secara efisien dan efektif.
 
-## Struktur Program
+## Struktur Project
 
 - Login 
     - Manajer 
@@ -44,14 +44,23 @@ Program Manajemen Proyek Perusahaan adalah sistem yang dirancang untuk membantu 
         - Proyek Update
         - Tugas
             - Edit Status Tugas
+            - Urutkan Tugas
+            - Cari Tugas
 
 ## Fitur
 
 ###### Library
 
 ###### Manajer
+- Pengelolaan Proyek
+- Pengelolaan Proyek Update
+- Pengelolaan Tugas
+- Pengelolaan Karyawan
 
 ###### Karyawan
+- Melihat Tugas
+- Pengubahan Status Tugas
+- Melihat Proyek Update
 
 ## Fungsionalitas
 
