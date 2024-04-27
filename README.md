@@ -1,5 +1,3 @@
-# PA-A23-KELOMPOK-6
-
 # Sistem Manajemen Proyek Perusahaan 
 
 ## Deskripsi Program
