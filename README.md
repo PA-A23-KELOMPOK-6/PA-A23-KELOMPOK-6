@@ -6,6 +6,17 @@ Program Manajemen Proyek Perusahaan adalah sistem yang dirancang untuk membantu 
 
 ## Struktur Project
 
+Project ini terdiri dari 3 file yaitu :
+1. File Program
+Program utama yang berisikan kode program yang terhubung ke database untuk menjalankan sistem manajemen proyek perusahaan.
+
+2. Database 
+Basis data sebagai tempat penyimpanan data yang akan digunakan dan diolah di dalam program manajemen proyek perusahaan.
+
+3. Dokumentasi 
+Dokumentasi dari project dan program sistem manajemen proyek perusahaan yang sudah dirancang.
+
+### Struktur Program
 - Login 
     - Manajer 
         - Menampilkan Proyek
