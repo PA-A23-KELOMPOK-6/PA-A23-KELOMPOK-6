@@ -177,96 +177,244 @@ Project ini terdiri dari 3 file yaitu :
 
 ## Cara Penggunaan
 
+
 1. Tampilan Awal Program
+   
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/1d72c313-dcb9-4ff7-ab3b-a6bde695edd9)
+   Ketik "1" untuk login karyawan, ketik "2" untuk login manajer, dan ketik "3" untuk keluar dari program.
+   
+2. ##Login Karyawan
+   
+   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/c293791e-22bc-4f5d-a2bb-2ba8e2a36e24)
+   Masukan email dan id karyawan yang sesuai jika sudah klik "enter".
+   
+3. Tampilan Login Karyawan Berhasil
+   
+   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/dbe5e28f-61dd-4ff4-84bc-459f42dbf4f7)
 
-2. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/c293791e-22bc-4f5d-a2bb-2ba8e2a36e24)
-3. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/dbe5e28f-61dd-4ff4-84bc-459f42dbf4f7)
-4. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/fd33418c-94b8-4a26-b611-0e41f0554d9f)
-5. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/6f744bef-71ab-40bd-b728-d82142707d53)
+5. Lihat Daftar Tugas
+   
+   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/fd33418c-94b8-4a26-b611-0e41f0554d9f)
+   Ketik "1" Untuk Lihat Daftar Tugas
+7. Edit Status Tugas
+   
+   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/dbe5e28f-61dd-4ff4-84bc-459f42dbf4f7)
+   Ketik "2" Untuk Edit Status Tugas
+   
+   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/6f744bef-71ab-40bd-b728-d82142707d53)
+   Masukan ID Tugas yang ingin diperbarui
+   
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/d19e89c0-7143-4f42-b329-d6ad79d25077)
+   Selesaikan perintah dengan mengisi yang sesuai
+   
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/2060fa6f-ed8b-4c9a-9518-f07632ff59cc)
-6. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/c308c3d7-e6c7-444f-9029-e40dee29a4c8)
+   Tampilan Berhasil
+   
+9. Cari Tugas
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/dbe5e28f-61dd-4ff4-84bc-459f42dbf4f7)
+   Ketik "3" Untuk Cari Tugas
+   
+   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/c308c3d7-e6c7-444f-9029-e40dee29a4c8)
+   Menampilkan Daftar Tugas
+   
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/3079160e-2886-4f3d-bac0-777148baee0c)
+   Masukan Nama Tugas yang akan dicari
+   
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/443d72af-b272-4e90-bf2b-95aef9c86abd)
+   Tugas ditemukan
    
-8. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/0ff0e49f-5243-4b53-acbb-3a2e5bfee949)
-
-9. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/76bf8308-35a4-4c4f-ac28-09b5db221bc2)
-
-10. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/fc3548db-4401-42f0-ae4f-eed2c50906a3)
-11.
-12.MANAJER
-   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/89f86c48-31a7-4714-9e8e-5cd7d5996075)
-   
-
-13.![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/fbc4d03c-6631-40c7-ba02-a8c63610a54e)
-
-14. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cbf799bc-fc50-4711-8f0f-049a53beefff)
-15. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/ba14a11b-2a39-4952-911b-91ac51f30eb2)
-    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/049eaef1-0158-411c-8187-a75be5c4ae53)
-    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/f6dd0d0e-d46a-4f30-a439-bed0b0aefb83)
+10. Urut Tugas
     
-17. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/0cf9d3bb-976f-4d03-81fe-4c898ecd66f1)
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/0ff0e49f-5243-4b53-acbb-3a2e5bfee949)
+
+12. Lihat Proyek Update
+    
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/76bf8308-35a4-4c4f-ac28-09b5db221bc2)
+
+14. Kembali
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/fc3548db-4401-42f0-ae4f-eed2c50906a3)
+    
+15. ## Login Manajer
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/89f86c48-31a7-4714-9e8e-5cd7d5996075)
+    Masukan email dan id manajer yang sesuai jika sudah klik "enter".
+
+16. Tampilan Login Manajer Berhasil
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/fbc4d03c-6631-40c7-ba02-a8c63610a54e)
+    Ketik "1" Untuk masuk kemenu kelola proyek, dan ketik "2" untuk Kembali.
+    
+17. Tampilan Menu Pengelolaan Proyek
+
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cbf799bc-fc50-4711-8f0f-049a53beefff)
+    
+15. Tambah Proyek
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/ba14a11b-2a39-4952-911b-91ac51f30eb2)
+    Ketik "1" untuk tambah proyek
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/049eaef1-0158-411c-8187-a75be5c4ae53)
+    Masukan data yang sesuai jika sudah klik enter
+    
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/f6dd0d0e-d46a-4f30-a439-bed0b0aefb83)
+    Tampilan data berhasil ditambahkan
+    
+16. Hapus Proyek
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cbf799bc-fc50-4711-8f0f-049a53beefff)
+    Ketik "2" untuk Hapus Proyek
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/0cf9d3bb-976f-4d03-81fe-4c898ecd66f1)
+    Masukan ID Proyek yang akan dihapus
+    
     ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/a79a862e-959b-4c37-a5d3-7b144ae32fc4)
+    Tekan Enter untuk melanjutkan
+    
     ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/81c826de-9f5c-4c59-beee-585ceb848d90)
+    Tampilan berhasil menghapus proyek
 
-19. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cfd2484f-d408-45dc-8ee1-3ef2ff06c771)
+17. Perbarui Proyek
+    
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cbf799bc-fc50-4711-8f0f-049a53beefff)
+    Ketik "3" untuk Perbarui Proyek
+    
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cfd2484f-d408-45dc-8ee1-3ef2ff06c771)
+    Masukan ID Proyek yang akan diperbarui, dan selesaikan
+    
     ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/51b68756-f03e-4402-a7f2-0fe932713db4)
+    Tampilan berhasil memperbarui proyek
 
-21. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/becc4a14-a8fa-4349-baeb-e1ee9dd0508e)
+21. Cari Proyek
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cbf799bc-fc50-4711-8f0f-049a53beefff)
+    Ketik "4" untuk Cari Proyek
+    
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/becc4a14-a8fa-4349-baeb-e1ee9dd0508e)
+    Tampilan Proyek Ditemukan
 
-22. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/10831cb5-a623-4d11-8770-05fcb90c4d9d)
+22. Urutkan Proyek
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cbf799bc-fc50-4711-8f0f-049a53beefff)
+    Ketik "5" untuk Urutkan Proyek
+    
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/10831cb5-a623-4d11-8770-05fcb90c4d9d)
+    Tampilan diurutkan berdasarkan anggaran
 
 
-23. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/d3c6a0f6-9d13-46e7-9f40-320454b42c03)
+23. Tampilkan Semua Proyek
+    
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cbf799bc-fc50-4711-8f0f-049a53beefff)
+    Ketik "6" untuk Menampilkan Semua Proyek
+    
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/d3c6a0f6-9d13-46e7-9f40-320454b42c03)
+    Tampilan Semua Proyek
+24. Kembali
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cbf799bc-fc50-4711-8f0f-049a53beefff)
+    Ketik "9" untuk kembali ke Menu sebelumnya
 
-24. Kelola tugas
-    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/48be95f1-560a-4dcb-982f-c8394aeafc67)
+26. Kelola tugas
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cbf799bc-fc50-4711-8f0f-049a53beefff)
+    Ketik "7" untuk Kelola Tugas
+    
+    1. Menu Pengelolaan Tugas
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/48be95f1-560a-4dcb-982f-c8394aeafc67)
 
-    1. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/f813874a-5c63-4ff0-9849-48589293022e)
+    2. Tambah Tugas
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/f813874a-5c63-4ff0-9849-48589293022e)
+       Ketik "1" untuk Menambahkan Tugas
+       
        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/2d6be4f0-10c7-4461-8bea-8686f461b2c4)
+       Tampilan Tugas Berhasil diTambahkan
 
-    3. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/477e4883-69b2-4339-b703-2cecdbdab6c8)
+    3. Hapus Tugas
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/48be95f1-560a-4dcb-982f-c8394aeafc67)
+       Ketik "2" untuk Menghapus Tugas
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/477e4883-69b2-4339-b703-2cecdbdab6c8)
+       Masukkan ID Tugas yang akan dihapus
+       
        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/b1792dd1-ee2b-4650-9bd4-aae6e0d582f0)
+       Tampilan Berhasil Menghapus Tugas
 
-    5. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/0242cf6b-e209-47f2-bd5e-d88808e3fa07)
+    5. Perbarui Tugas
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/48be95f1-560a-4dcb-982f-c8394aeafc67)
+       Ketik "3" untuk Memperbarui Tugas
+       
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/0242cf6b-e209-47f2-bd5e-d88808e3fa07)
+       Masukan ID Tugas yang akan diperbarui, dan selesaikan perintahnya
+       
        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/dc258b61-21d8-47ce-b64e-423551aa55d4)
+       Tampilan Tugas Berhasil diPerbarui
 
-    7. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/9b6eb613-d8d8-4f61-b3d5-27ce2450218e)
+    7. Cari Tugas
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/9b6eb613-d8d8-4f61-b3d5-27ce2450218e)
+       Ketik "4" untuk cari tugas, setelah itu masukan Nama Tugas yang akan dicari, Dan Tugas Ditemukan
 
-    8. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/7ddb564f-17a6-48d1-8db0-a3c2c307d2ca)
+    9. Urutkan Tugas
+        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/48be95f1-560a-4dcb-982f-c8394aeafc67)
+        Ketik "5" untuk mengurutkan Tugas
+       
+        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/7ddb564f-17a6-48d1-8db0-a3c2c307d2ca)
+        Tampilkan Berhasil Mengurutkan Tugas Berdasarkan Tenggat Tugas
+       
 
-    9. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/75a9164a-8855-4fbd-b196-097437a87f06)
+    11. Tampilkan Semua Tugas
+        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/48be95f1-560a-4dcb-982f-c8394aeafc67)
+        Ketik "6" untuk Menampilkan Semua Tugas
+        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/75a9164a-8855-4fbd-b196-097437a87f06)
+        Tampilan Semua Tugas
+    12. Kembali
+        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/48be95f1-560a-4dcb-982f-c8394aeafc67)
+        Ketik "7" untuk kembali ke menu sebelumnya
 
-    10. 
-    11. a
-
-
-26. kelola proyek update
-    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/8c49c745-5215-4650-a716-49c01f05dbf6)
-    1. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/19c5804b-3dc8-4566-a379-781517589058)
+28. Kelola Proyek Update
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cbf799bc-fc50-4711-8f0f-049a53beefff)
+    Ketik "8" untuk Kelola Proyek Update
+    
+    1. Menu Pengelolaan Proyek Update
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/8c49c745-5215-4650-a716-49c01f05dbf6)
+       
+    1. Tambah Proyek Update
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/19c5804b-3dc8-4566-a379-781517589058)
+       Ketik "1" untuk Menambahkan Proyek Update
+       
        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/a33cfdd5-d01c-4c0a-9bad-ade49f423dfd)
+       Tampilan Berhasil diTambahkan
 
-    3. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/54ee38c3-9d85-450c-95ce-977669c5ecce)
+    3. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cbf799bc-fc50-4711-8f0f-049a53beefff)
+       Ketik "2" untuk Menghapus Proyek Update
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/54ee38c3-9d85-450c-95ce-977669c5ecce)
+       Tampilan Sebelum dihapus
        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/4a3f63de-971b-4663-9060-4c498dbc74ab)
+       Masukan ID Proyek update yang akan dihapus
        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/0cfef2e7-8a3c-4f24-b45c-a07b19e062d1)
+       Tampilan Setelah Dihapus
 
 
-    5. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/a3e02a3b-db8e-4d49-b863-00d3ab70cbc1)
+    5. Perbarui Proyek Update
        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/25869b88-4356-4924-b370-2cffe2e15290)
+       Ketik "3" untuk Memperbarui Proyek Update, setelah itu selesaikan perintahnya, dan Proyek Update berhasil diperbarui
+       
        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/428e11a6-67c8-4e8c-9b79-00684e092084)
+       Tampilan Setelah Diperbarui
+
+    7. Cari Proyek Update
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/394f1bc6-5bef-4afc-8c2c-ededc495f45d)
+       Ketik "4" untuk cari proyek update, setelah itu masukkan Nama Proyek Update yang akan dicari, dan Proyek Update Ditemukan
+
+    9. Urutkan Proyek Update
+        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cbf799bc-fc50-4711-8f0f-049a53beefff)
+       Ketik "5" untuk Mengurutkan Proyek Update
+        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/371d645d-fc8d-4526-8037-c4848f5086ed)
+       Tampilan Berhasil Mengurutkan Tugas Berdasarkan Tanggal
+
+    11. Tampilkan Semua Proyek Update
+        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cbf799bc-fc50-4711-8f0f-049a53beefff)
+        Ketik "6" untuk Menampilkan Semua Proyek Update
+        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/8d8b2796-511b-4fac-a3be-04f233a7f618)
+        Tampilan Semua Proyek Update
+    12. Kembali
+        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cbf799bc-fc50-4711-8f0f-049a53beefff)
+        Ketik "7" untuk Kembali kemenu Sebelumnya
 
 
-
-    7. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/394f1bc6-5bef-4afc-8c2c-ededc495f45d)
-
-    8. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/371d645d-fc8d-4526-8037-c4848f5086ed)
-
-    9. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/8d8b2796-511b-4fac-a3be-04f233a7f618)
-
-27. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/38cd5693-fe10-49d5-ac8f-b4a33798c335)
+20. Keluar
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/38cd5693-fe10-49d5-ac8f-b4a33798c335)
+    Ketik "3" untuk keluar
+    
     ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/64824a1f-f482-4d25-a484-5cd4f3bb1250)
+    Menampilkan Anda telah keluar dari aplikasi
 
 
 
