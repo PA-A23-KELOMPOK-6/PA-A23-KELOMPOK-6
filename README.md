@@ -38,13 +38,14 @@ Project ini terdiri dari 3 file yaitu :
    Sandi: '123123123'
    Nama Database: 'manajemen_proyek'
 
-3. Linked List yang kami gunakan terdiri dari beberapa method yaitu method tambah  diakhir, ubah ke array, jump search proyek,tugas,proyek update, cari proyek,cari tugas, cari proyek update, tampilkan semua
+   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/21be3fe5-d80e-436f-9bc1-dbfe20381821)
+
+
+4. Linked List yang kami gunakan terdiri dari beberapa method yaitu method tambah  diakhir, ubah ke array, jump search proyek,tugas,proyek update, cari proyek,cari tugas, cari proyek update, tampilkan semua
    proyek, tugas, proyek update,tambah proyek, tugas ,proyek update, hapus proyek, tugas ,proyek update, perbarui tugas,proyek,proyek update,edit status, quick sort, sort proyek berdasarkan anggaran, sort 
    tugas berdasarkan tenggat, sort proyek berdasarkan tanggal.
 
-   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/4b93017f-2337-42f5-8382-35d0d3cf015b)
-
-   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/c32f1016-5e08-4d1d-a5a1-1825bfb8a63b)
+   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/966a5d69-00c9-47ce-b3e9-3b5adebdbab2)
 
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cd47fc47-9257-4479-a468-9b941d495d7b)
 
@@ -74,7 +75,8 @@ Project ini terdiri dari 3 file yaitu :
   
 6. Searching Menggunakan JumpSearch
    
-   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/8ccb3cdc-76f6-44f3-b204-b3b2d8e385bc)
+   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/e07f6fb5-868b-42bb-84e6-f6cc47470b9d)
+
 
 7. Fungsi
 
@@ -222,10 +224,51 @@ Project ini terdiri dari 3 file yaitu :
 24. Kelola tugas
     ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/48be95f1-560a-4dcb-982f-c8394aeafc67)
 
+    1. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/f813874a-5c63-4ff0-9849-48589293022e)
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/2d6be4f0-10c7-4461-8bea-8686f461b2c4)
+
+    3. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/477e4883-69b2-4339-b703-2cecdbdab6c8)
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/b1792dd1-ee2b-4650-9bd4-aae6e0d582f0)
+
+    5. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/0242cf6b-e209-47f2-bd5e-d88808e3fa07)
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/dc258b61-21d8-47ce-b64e-423551aa55d4)
+
+    7. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/9b6eb613-d8d8-4f61-b3d5-27ce2450218e)
+
+    8. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/7ddb564f-17a6-48d1-8db0-a3c2c307d2ca)
+
+    9. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/75a9164a-8855-4fbd-b196-097437a87f06)
+
+    10. 
+    11. a
+
+
 26. kelola proyek update
     ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/8c49c745-5215-4650-a716-49c01f05dbf6)
+    1. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/19c5804b-3dc8-4566-a379-781517589058)
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/a33cfdd5-d01c-4c0a-9bad-ade49f423dfd)
 
-28. 
+    3. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/54ee38c3-9d85-450c-95ce-977669c5ecce)
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/4a3f63de-971b-4663-9060-4c498dbc74ab)
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/0cfef2e7-8a3c-4f24-b45c-a07b19e062d1)
+
+
+    5. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/a3e02a3b-db8e-4d49-b863-00d3ab70cbc1)
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/25869b88-4356-4924-b370-2cffe2e15290)
+       ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/428e11a6-67c8-4e8c-9b79-00684e092084)
+
+
+
+    7. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/394f1bc6-5bef-4afc-8c2c-ededc495f45d)
+
+    8. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/371d645d-fc8d-4526-8037-c4848f5086ed)
+
+    9. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/8d8b2796-511b-4fac-a3be-04f233a7f618)
+
+27. ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/38cd5693-fe10-49d5-ac8f-b4a33798c335)
+    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/64824a1f-f482-4d25-a484-5cd4f3bb1250)
+
+
 
 
 
