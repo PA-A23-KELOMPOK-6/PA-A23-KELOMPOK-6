@@ -108,7 +108,7 @@ Project ini terdiri dari 3 file yaitu :
    entri di tabel manajer. Jika ada hasil yang sesuai, maka fungsi akan mengembalikan nilai True, menandakan bahwa login berhasil. Jika tidak ada hasil yang sesuai, fungsi akan mengembalikan nilai False, 
    menandakan bahwa login gagal.
 
-  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/c7bc95ab-6f47-47ae-8838-5ca4b500b5fc)
+   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/c7bc95ab-6f47-47ae-8838-5ca4b500b5fc)
 
    def ambil nama manajer() : mengambil nama manajer dari database berdasarkan email dan ID manajer yang diberikan. Jika data manajer ditemukan sesuai dengan email dan ID yang diberikan, maka fungsi ini 
    mengembalikan nama manajer. Jika tidak ditemukan, fungsi ini mengembalikan False.
