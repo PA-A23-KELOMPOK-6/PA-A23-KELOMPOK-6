@@ -11,11 +11,7 @@ Project ini terdiri dari 3 file yaitu :
 
     Program utama yang berisikan kode program yang terhubung ke database untuk menjalankan sistem manajemen proyek perusahaan.
 
-2. Database 
-
-    Basis data sebagai tempat penyimpanan data yang akan digunakan dan diolah di dalam program manajemen proyek perusahaan.
-
-3. Dokumentasi 
+2. Dokumentasi 
 
     Dokumentasi dari project dan program sistem manajemen proyek perusahaan yang sudah dirancang.
 
