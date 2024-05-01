@@ -186,7 +186,7 @@ Project ini terdiri dari 3 file yaitu :
    
    Ketik "1" untuk login karyawan, ketik "2" untuk login manajer, dan ketik "3" untuk keluar dari program.
    
-**Login Karyawan**
+**- Login Karyawan**
    
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/c293791e-22bc-4f5d-a2bb-2ba8e2a36e24)
    
@@ -250,7 +250,7 @@ Project ini terdiri dari 3 file yaitu :
    
     ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/fc3548db-4401-42f0-ae4f-eed2c50906a3)
     
-**Login Manajer**
+**- Login Manajer**
 
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/89f86c48-31a7-4714-9e8e-5cd7d5996075)
     
@@ -511,7 +511,7 @@ Project ini terdiri dari 3 file yaitu :
         Ketik "7" untuk Kembali kemenu Sebelumnya
 
 
-**Keluar**
+**- Keluar**
 
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/38cd5693-fe10-49d5-ac8f-b4a33798c335)
  
