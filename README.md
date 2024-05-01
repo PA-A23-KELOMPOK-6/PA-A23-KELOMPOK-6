@@ -25,19 +25,18 @@ Project ini terdiri dari 3 file yaitu :
 
 1. Dalam pengembangan sistem ini, kami menggunakan beberapa library yang berperan
    penting dalam fungsionalitas sistem:
-   -mysql.connector: Digunakan untuk menghubungkan program dengan database MySQL.
-   -math: Digunakan untuk operasi matematika jika diperlukan dalam pengolahan data.
-   -prettytable: Digunakan untuk memformat data dalam bentuk tabel agar lebih
-   mudah dibaca.
-   -time: Digunakan untuk operasi terkait waktu jika diperlukan dalam sistem.
+   - mysql.connector: Digunakan untuk menghubungkan program dengan database MySQL.
+   - math: Digunakan untuk operasi matematika jika diperlukan dalam pengolahan data.
+   - prettytable: Digunakan untuk memformat data dalam bentuk tabel agar lebih mudah dibaca.
+   - time: Digunakan untuk operasi terkait waktu jika diperlukan dalam sistem.
    
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/35b9b8aa-b208-44df-bc20-c0292216b9c7)
 
 2. Database yang digunakan dalam sistem ini adalah MySQL, yang di-hosting di
    db4free.net. Informasi login untuk database adalah sebagai berikut:
-   Pengguna: 'tes123'
-   Sandi: '123123123'
-   Nama Database: 'manajemen_proyek'
+   - Pengguna: 'tes123'
+   - Sandi: '123123123'
+   - Nama Database: 'manajemen_proyek'
 
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/21be3fe5-d80e-436f-9bc1-dbfe20381821)
 
