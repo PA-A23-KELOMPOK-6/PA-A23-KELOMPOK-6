@@ -355,6 +355,7 @@ Project ini terdiri dari 3 file yaitu :
 
     Ketik "7" untuk Kelola Tugas
     
+    
     1. Menu Pengelolaan Tugas
 
        ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/48be95f1-560a-4dcb-982f-c8394aeafc67)
@@ -430,7 +431,7 @@ Project ini terdiri dari 3 file yaitu :
 
         Ketik "7" untuk kembali ke menu sebelumnya
 
-11. Kelola Proyek Update
+12. Kelola Proyek Update
     
     ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cbf799bc-fc50-4711-8f0f-049a53beefff)
 
