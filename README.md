@@ -30,6 +30,7 @@ Project ini terdiri dari 3 file yaitu :
 
 2. Database yang digunakan dalam sistem ini adalah MySQL, yang di-hosting di
    db4free.net. Informasi login untuk database adalah sebagai berikut:
+   - host : 'db4free.net'
    - Pengguna: 'tes123'
    - Sandi: '123123123'
    - Nama Database: 'manajemen_proyek'
@@ -37,7 +38,7 @@ Project ini terdiri dari 3 file yaitu :
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/21be3fe5-d80e-436f-9bc1-dbfe20381821)
 
 
-3. Linked List yang kami gunakan terdiri dari beberapa method yaitu method tambah  diakhir, jump search,tugas,proyek update, cari proyek,cari tugas, cari proyek update, tampilkan semua
+4. Linked List yang kami gunakan terdiri dari beberapa method yaitu method tambah  diakhir, jump search,tugas,proyek update, cari proyek,cari tugas, cari proyek update, tampilkan semua
    proyek, tugas, proyek update,tambah proyek, tugas ,proyek update, hapus proyek, tugas ,proyek update, perbarui tugas,proyek,proyek update,edit status, quick sort, sort proyek berdasarkan anggaran, sort 
    tugas berdasarkan tenggat, sort proyek berdasarkan tanggal.
 
@@ -65,16 +66,16 @@ Project ini terdiri dari 3 file yaitu :
 
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/83595692-2cf1-4a3d-9bf0-64c587713007)
 
-4. Sorting Menggunakan QuickSort
+5. Sorting Menggunakan QuickSort
    
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/644e3917-5dc3-49ed-955c-4cc0d3a0a1c9)
   
-5. Searching Menggunakan JumpSearch
+6. Searching Menggunakan JumpSearch
    
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/e07f6fb5-868b-42bb-84e6-f6cc47470b9d)
 
 
-6. Fungsi
+7. Fungsi
 
    - def menu karyawan(): digunakan untuk menampilkan menu pilihan untuk melihat, mengedit, mencari, dan mengurutkan tugas, serta melihat proyek update yang  tersedia.
    
