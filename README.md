@@ -86,6 +86,7 @@ Project ini terdiri dari 3 file yaitu :
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/8ccb3cdc-76f6-44f3-b204-b3b2d8e385bc)
 
 7. Fungsi
+
    def menu karyawan(): digunakan untuk menampilkan menu pilihan untuk melihat, 
    mengedit, mencari, dan mengurutkan tugas, serta melihat proyek update yang 
    tersedia.
@@ -98,8 +99,8 @@ Project ini terdiri dari 3 file yaitu :
 
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/f9912054-556f-4db5-bb68-4701085167e6)
 
-   def menu crud proyek(): menampilkan menu crud proyek yang mencakup operasi      CRUDS(Create, Read, Update, Delete, Searching) dan terdapat pilihan untuk       masuk ke CRUD Tugas dan CRUD Proyek Update, dan pilihan kembali kemenu 
-   sebelumnya.
+   def menu crud proyek(): menampilkan menu crud proyek yang mencakup operasi CRUDS(Create, Read, Update, Delete, Searching) dan terdapat pilihan untuk masuk ke CRUD Tugas dan CRUD Proyek Update, dan pilihan 
+   kembali kemenu sebelumnya.
   
     ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/0df873c6-5d0e-4354-90a3-219d9bd4f781)
 
