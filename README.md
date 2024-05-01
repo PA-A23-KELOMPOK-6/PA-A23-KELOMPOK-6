@@ -23,12 +23,15 @@ Project ini terdiri dari 3 file yaitu :
 
 ###### Library
 1. Library Kami menggunakan mysql.connector, math, prettytable, dan time
+   
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/35b9b8aa-b208-44df-bc20-c0292216b9c7)
 
-2. Database kami menggunakan sebuah database MySQL yang di-hosting di db4free.net. Pengguna dengan nama 'tes123' dan sandi '123123123' digunakan untuk mengakses database bernama 'manajemen_proyek'.
+3. Database kami menggunakan sebuah database MySQL yang di-hosting di db4free.net. Pengguna dengan nama 'tes123' dan sandi '123123123' digunakan untuk mengakses database bernama 'manajemen_proyek'.
+
+   
    ![Uploading image.png…]()
 
-3.
+5.
 
    
 
