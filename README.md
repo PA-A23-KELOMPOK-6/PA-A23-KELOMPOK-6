@@ -37,14 +37,10 @@ Project ini terdiri dari 3 file yaitu :
    Pengguna: 'tes123'
    Sandi: '123123123'
    Nama Database: 'manajemen_proyek'
-   
-3.Linked List yang kami gunakan terdiri dari beberapa method yaitu method tambah
-  diakhir, ubah ke array, jump search proyek,tugas,proyek update, cari proyek,
-  cari tugas, cari proyek update, tampilkan semua proyek, tugas, proyek update,
-  tambah proyek, tugas ,proyek update, hapus proyek, tugas ,proyek update,
-  perbarui tugas,proyek,proyek update,edit status, quick sort, sort proyek
-  berdasarkan anggaran, sort tugas berdasarkan tenggat, sort proyek berdasarkan
-  tanggal.
+
+3. Linked List yang kami gunakan terdiri dari beberapa method yaitu method tambah  diakhir, ubah ke array, jump search proyek,tugas,proyek update, cari proyek,cari tugas, cari proyek update, tampilkan semua
+   proyek, tugas, proyek update,tambah proyek, tugas ,proyek update, hapus proyek, tugas ,proyek update, perbarui tugas,proyek,proyek update,edit status, quick sort, sort proyek berdasarkan anggaran, sort 
+   tugas berdasarkan tenggat, sort proyek berdasarkan tanggal.
 
   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/4b93017f-2337-42f5-8382-35d0d3cf015b)
 
@@ -56,30 +52,26 @@ Project ini terdiri dari 3 file yaitu :
 
   ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/a578b07d-fd57-42b2-aa8e-3c0989e7f330)
 
-![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/dfd2b8c7-6fa3-42e8-9236-6d4e821c9a18)
-
-![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/734beb86-5e1b-4e18-9970-46d067448c5a)
-
-![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/275c7cfb-f865-4fd6-9866-477829c4ff1d)
-
-![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/fa143d67-5333-4070-a438-3ad11ddcb305)
-
-![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/461b5b37-58b0-4d44-a314-5c245a5647c6)
-
-![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/bf40bf9f-4403-4570-b3f5-27b11b804d41)
-
-![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cfa313c6-8204-4778-97a2-9467e0ec9419)
-
-![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/83595692-2cf1-4a3d-9bf0-64c587713007)
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/dfd2b8c7-6fa3-42e8-9236-6d4e821c9a18)
+  
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/734beb86-5e1b-4e18-9970-46d067448c5a)
+  
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/275c7cfb-f865-4fd6-9866-477829c4ff1d)
+  
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/fa143d67-5333-4070-a438-3ad11ddcb305)
+  
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/461b5b37-58b0-4d44-a314-5c245a5647c6)
+  
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/bf40bf9f-4403-4570-b3f5-27b11b804d41)
+  
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/cfa313c6-8204-4778-97a2-9467e0ec9419)
+  
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/83595692-2cf1-4a3d-9bf0-64c587713007)
 
 
 4. Sorting Menggunakan QuickSort
    
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/644e3917-5dc3-49ed-955c-4cc0d3a0a1c9)
-
-   
-
-
   
 6. Searching Menggunakan JumpSearch
    
@@ -87,9 +79,7 @@ Project ini terdiri dari 3 file yaitu :
 
 7. Fungsi
 
-   def menu karyawan(): digunakan untuk menampilkan menu pilihan untuk melihat, 
-   mengedit, mencari, dan mengurutkan tugas, serta melihat proyek update yang 
-   tersedia.
+   def menu karyawan(): digunakan untuk menampilkan menu pilihan untuk melihat, mengedit, mencari, dan mengurutkan tugas, serta melihat proyek update yang  tersedia.
    
    ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/ca45bfd7-e512-42cd-b7b8-3f05f2afe197)
 
