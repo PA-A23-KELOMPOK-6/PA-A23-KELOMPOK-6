@@ -142,13 +142,35 @@ Project ini terdiri dari 3 file yaitu :
 
 ###### Manajer
 - Pengelolaan Proyek
+
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/db5681d3-ecb3-4670-9d73-bd521fcf8393)
+
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/936dfafd-061d-49f9-9864-1d49588fab63)
+
 - Pengelolaan Proyek Update
+  
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/d13292dc-be1f-48df-bef9-2f16d8d8917e)
+
 - Pengelolaan Tugas
+  
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/098c2030-ab83-42cd-8555-42c5b3cb8abc)
+
 - Pengelolaan Karyawan
 
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/5493cc90-4d0a-41b7-818b-1c1731c659e7)
+  
 ###### Karyawan
 - Melihat Tugas
+  
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/35ff8150-a8ea-4f43-82e3-db6900bdf147)
+
 - Pengubahan Status Tugas
+
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/f83edf0a-67b2-4b06-b784-f111291eecb7)
+
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/a15730ad-3f39-465e-a075-0f8cadca5a9a)
+  
 - Melihat Proyek Update
+  ![image](https://github.com/PA-A23-KELOMPOK-6/PA-A23-KELOMPOK-6/assets/144349308/9852c0b3-c368-4536-aeec-1cd39a9c0b09)
 
 ## Cara Penggunaan
